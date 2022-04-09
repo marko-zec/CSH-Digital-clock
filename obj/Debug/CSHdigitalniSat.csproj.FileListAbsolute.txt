@@ -1,0 +1,10 @@
+C:\Users\Marko98\source\repos\CSHdigitalniSat\bin\Debug\CSHdigitalniSat.exe.config
+C:\Users\Marko98\source\repos\CSHdigitalniSat\bin\Debug\CSHdigitalniSat.exe
+C:\Users\Marko98\source\repos\CSHdigitalniSat\bin\Debug\CSHdigitalniSat.pdb
+C:\Users\Marko98\source\repos\CSHdigitalniSat\obj\Debug\CSHdigitalniSat.csproj.AssemblyReference.cache
+C:\Users\Marko98\source\repos\CSHdigitalniSat\obj\Debug\CSHdigitalniSat.Form1.resources
+C:\Users\Marko98\source\repos\CSHdigitalniSat\obj\Debug\CSHdigitalniSat.Properties.Resources.resources
+C:\Users\Marko98\source\repos\CSHdigitalniSat\obj\Debug\CSHdigitalniSat.csproj.GenerateResource.cache
+C:\Users\Marko98\source\repos\CSHdigitalniSat\obj\Debug\CSHdigitalniSat.csproj.CoreCompileInputs.cache
+C:\Users\Marko98\source\repos\CSHdigitalniSat\obj\Debug\CSHdigitalniSat.exe
+C:\Users\Marko98\source\repos\CSHdigitalniSat\obj\Debug\CSHdigitalniSat.pdb
